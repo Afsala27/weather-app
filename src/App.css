@@ -138,10 +138,13 @@ button {
 }
 
 @media only screen and (max-width:500px) {
-  .App, .App-header {
-    width: 100%;
-  }
-  .container{
-    margin: 0%;
-  }
+ .container{
+  padding: 20px 20px 20px;
+  margin: 50px 80px;
+ }
+ .details .col{
+   display: grid;
+   text-align: left;
+   padding: 20px;
+ }
 }
