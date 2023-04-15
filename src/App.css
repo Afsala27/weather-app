@@ -150,4 +150,7 @@ button {
  .col-1 h2{
   margin-top: -28px;
  }
+ .col-1 img{
+  display: none;
+ }
 }
