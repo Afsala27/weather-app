@@ -147,4 +147,7 @@ button {
    text-align: left;
    padding: 20px;
  }
+ .col-1 h2{
+  margin-top: -28px;
+ }
 }
